@@ -1,0 +1,23 @@
+2022/11/19-18:45:27.450 526 Reusing MANIFEST /home/devon/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/11/19-18:45:27.450 526 Recovering log #1021
+2022/11/19-18:45:27.451 526 Level-0 table #1026: started
+2022/11/19-18:45:27.456 526 Level-0 table #1026: 206394 bytes OK
+2022/11/19-18:45:27.457 526 Delete type=0 #1021
+2022/11/19-18:47:29.332 526 Level-0 table #1029: started
+2022/11/19-18:47:29.342 526 Level-0 table #1029: 1205974 bytes OK
+2022/11/19-18:47:29.343 526 Delete type=0 #1027
+2022/11/19-18:48:29.330 501 Level-0 table #1031: started
+2022/11/19-18:48:29.334 501 Level-0 table #1031: 204841 bytes OK
+2022/11/19-18:48:29.335 501 Delete type=0 #1028
+2022/11/19-19:06:49.550 501 Level-0 table #1033: started
+2022/11/19-19:06:49.554 501 Level-0 table #1033: 209333 bytes OK
+2022/11/19-19:06:49.555 501 Delete type=0 #1030
+2022/11/19-19:06:49.555 501 Compacting 4@0 + 1@1 files
+2022/11/19-19:06:49.572 501 Generated table #1034@0: 95 keys, 2575987 bytes
+2022/11/19-19:06:49.572 501 Compacted 4@0 + 1@1 files => 2575987 bytes
+2022/11/19-19:06:49.572 501 compacted to: files[ 0 2 0 0 0 0 0 ]
+2022/11/19-19:06:49.572 501 Delete type=2 #1026
+2022/11/19-19:06:49.572 501 Delete type=2 #1023
+2022/11/19-19:06:49.573 501 Delete type=2 #1029
+2022/11/19-19:06:49.573 501 Delete type=2 #1033
+2022/11/19-19:06:49.573 501 Delete type=2 #1031

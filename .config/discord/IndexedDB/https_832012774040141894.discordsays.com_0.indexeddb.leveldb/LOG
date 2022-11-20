@@ -1,0 +1,6 @@
+2022/11/13-00:09:46.617 55dc Creating DB /home/devon/.config/discord/IndexedDB/https_832012774040141894.discordsays.com_0.indexeddb.leveldb since it was missing.
+2022/11/13-00:09:46.621 55dc Reusing MANIFEST /home/devon/.config/discord/IndexedDB/https_832012774040141894.discordsays.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/11/13-00:16:05.747 94db Level-0 table #5: started
+2022/11/13-00:16:05.750 94db Level-0 table #5: 102751 bytes OK
+2022/11/13-00:16:05.751 94db Delete type=0 #3
+2022/11/13-00:16:05.751 94db Manual compaction at level-0 from (begin) .. (end); will stop at (end)
